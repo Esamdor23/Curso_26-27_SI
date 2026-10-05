@@ -1,6 +1,6 @@
 # Relación de Ejercicios de Binario y de Puertas Lógicas
 
-> @autor: Esteban
+> @autor: Esteban Amador
 
 ## Relación 3
 
